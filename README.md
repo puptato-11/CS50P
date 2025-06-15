@@ -1,4 +1,4 @@
-# CS50P
+# CS50P_Notes
 ## Introduction
 This repository contains my **notes** and **Problem Sets solutions** for [CS50P - Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/), Harvard's Python programming course. It serves as both my learning record and a reference for Python fundamentals.
 ## Notes
